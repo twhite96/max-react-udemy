@@ -11,5 +11,19 @@
   "prettier.trailingComma": "none",
   "files.autoSave": "off",
   "prettier.bracketSpacing": true,
-  "prettier.jsxBracketSameLine": true
+  "prettier.jsxBracketSameLine": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#33e0ff",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#ff20dd",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "titleBar.activeBackground": "#00d8ff",
+    "titleBar.inactiveBackground": "#00d8ff99",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveForeground": "#15202b99",
+    "statusBar.background": "#00d8ff",
+    "statusBarItem.hoverBackground": "#00adcc",
+    "statusBar.foreground": "#15202b"
+  }
 }
