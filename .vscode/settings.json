@@ -25,5 +25,8 @@
     "statusBar.background": "#00d8ff",
     "statusBarItem.hoverBackground": "#00adcc",
     "statusBar.foreground": "#15202b"
-  }
+  },
+  "cSpell.words": [
+    "ramalamadingdong"
+  ]
 }
