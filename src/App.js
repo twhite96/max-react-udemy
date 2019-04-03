@@ -4,7 +4,6 @@ import './App.css';
 import Person from './Person/Person'
 
 class App extends Component {
-
   state = {
 		persons: [
       {id: 'asfda1', name: 'Max', age: 28},
@@ -46,7 +45,6 @@ class App extends Component {
   this.setState({showPersons: !doesShow});
  }
   render() {
-
     const style = {
       backgroundColor: 'white',
       font: 'inherit',
